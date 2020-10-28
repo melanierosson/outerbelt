@@ -1,5 +1,6 @@
 # The Outerbelt Alliance NFP
 This repo is for The Outerbelt Alliance NFP's new website, to be hosted at https://outerbelt.org/
+@melanierosson @amandabukur @jdfiedler
 
 ## Goals
 * Educate the public about the Outerbelt (e.g. its existence and how to easily navigate it)
